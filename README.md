@@ -2,7 +2,7 @@
 
 :exclamation: DEMO PURPOSES ONLY :exclamation:
 
-> Validates JSON Patches ([RFC 6902](https://tools.ietf.org/html/rfc6902)). This repository is for demo/explaination purposes only. Please see [https://medium.com/@markherhold/validating-json-patch-requests-44ca5981a7fc](this article) for a better approach to JSON Patch validation.
+> Validates JSON Patches ([RFC 6902](https://tools.ietf.org/html/rfc6902)). This repository is for demo/explaination purposes only. Please see [this article](https://medium.com/@markherhold/validating-json-patch-requests-44ca5981a7fc) for a better approach to JSON Patch validation.
 
 ## Validation Strategy
 
